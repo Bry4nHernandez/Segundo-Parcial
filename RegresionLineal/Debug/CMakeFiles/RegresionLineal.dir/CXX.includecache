@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bryan/Documentos/RegresionLineal/exeigennorm.h
+iostream
+-
+fstream
+-
+eigen3/Eigen/Dense
+-
+vector
+-
+
+/home/bryan/Documentos/RegresionLineal/linealregression.h
+eigen3/Eigen/Dense
+-
+iostream
+-
+cmath
+-
+vector
+-
+
+/home/bryan/Documentos/RegresionLineal/main.cpp
+exeigennorm.h
+/home/bryan/Documentos/RegresionLineal/exeigennorm.h
+linealregression.h
+/home/bryan/Documentos/RegresionLineal/linealregression.h
+stdlib.h
+-
+eigen3/Eigen/Dense
+-
+boost/algorithm/string.hpp
+-
+vector
+-
+iostream
+-
+

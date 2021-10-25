@@ -1,0 +1,3 @@
+/home/bryan/Documentos/RegresionLineal/Debug/CMakeFiles/rebuild_cache.dir
+/home/bryan/Documentos/RegresionLineal/Debug/CMakeFiles/edit_cache.dir
+/home/bryan/Documentos/RegresionLineal/Debug/CMakeFiles/RegresionLineal.dir
